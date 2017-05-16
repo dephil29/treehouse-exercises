@@ -2,7 +2,7 @@
 @import url(http://necolas.github.io/normalize.css/3.0.2/normalize.css);
 
 body {
-    background: #ECEEEF;
+    background: #cff0da;
     text-align: center;
     margin: 100px auto;
     width: 80%;
@@ -16,7 +16,7 @@ h1 {
 }
 
 div {
-    background: #c25975;
+    background: #88dba3;
     border-radius: 4px;
     border: 1px solid #D5DDE4;
     margin: -40px 0 0;
@@ -47,7 +47,7 @@ li span {
 }
 
 li.current {
-    background: #ffd7d8;
+    background: #3ac569;
 }
 
 button {
@@ -56,5 +56,5 @@ button {
     border: none;
     border-radius: 5px;
     background: white;
-    
+
 }
